@@ -8,10 +8,3 @@ const PREFIX = "t/";
 
 
 client.login("4vNGEjx77K7hcS1K-KWy9Z7oPT8nnIjr");
-
-
-
-
-
-
-
